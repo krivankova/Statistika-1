@@ -1,0 +1,106 @@
+\documentclass[compress,mathserif]{beamer}
+\usepackage{beamerthemesplit_z}
+\usepackage{bm,bbm,graphicx}
+\usepackage[czech]{babel}
+\usepackage{pgf,pgfarrows,pgfnodes,pgfautomata,pgfheaps}
+\usepackage{yhmath,amsmath,amssymb,amsbsy}
+\usepackage[utf8]{inputenc}
+\usepackage[style=german]{csquotes}
+\usepackage{psfrag}
+\title[Příklady]{Příklady}
+\author{Lenka Křivánková}
+\institute{142474@mail.muni.cz}
+\date{}
+\usetemplatetocsection
+%{\color{structure}\inserttocsection}
+{\color{structure}\insertsection}
+
+
+\begin{document}
+
+\frame{\titlepage
+\begin{center}
+{Statistika I (BKMSTAI)\\[5mm] Brno}
+%	{Přednáška Statistika I (BKMSTAI)\\[5mm] 23. říjen 2015, Brno}
+\end{center}}
+
+
+\frame {
+  \frametitle{Příklad 1.}
+
+Při statistickém šetření pojištěnců byly získány tyto výše pojistek (v Kč):
+\begin{center}
+\tabcolsep=3pt
+\begin{tabular}{lrrrrrrrrrr}
+Výše pojistky	&390&	410&	430&	450&	470&	490&	510&	530&	550&	570\\
+Počet pojištěnců&	7&	10	&14	&22	&25	&12&	3	&3&	2&	2\\
+\end{tabular}
+\end{center}
+\begin{itemize}
+\item[a)]	Nakreslete graf četnostní funkce. \\[3mm]
+\item[b)]	Zjistěte průměr, medián a modus výše pojistky. \\[3mm]
+\item[c)]	Vypočtěte rozptyl, směrodatnou odchylku a koeficient variace výše pojistky.  
+\end{itemize}
+
+}
+
+
+\frame {
+  \frametitle{Příklad 2.}
+Během prvního čtvrtletí došlo k růstu prodejů firmy o 3 \%, ve druhém čtvrtletí došlo k nárůstu o 8 \% a ve třetím čtvrtletí byl pokles 2 \%. Vypočítejte, jaká změna by musela být ve čtvrtém čtvrtletí, aby firma měla průměrný růst 2 \%.
+\\[20mm]
+\begin{flushright}
+\scriptsize Odpověď: Pokles o 0,7 \%.
+\end{flushright}
+}
+
+
+\frame {
+  \frametitle{Příklad 3.}
+Počet různých druhů zboží, které zákazník nakoupí při jedné návštěvě obchodu, je náhodná veličina X. Dlouhodobým sledováním bylo zjištěno, že X nabývá hodnot 0; 1; 2; 3; 4 s~pravděpodobnostmi 0,25; 0,55; 0,11; 0,07 a 0,02.\\[1cm]
+\begin{itemize}
+\item[a)]	Najděte distribuční funkci náhodné veličiny X a nakreslete její graf. \\[0.5cm]
+\item[b)]	Vypočtěte střední hodnotu náhodné veličiny X. \\[0.5cm]
+\item[c)]	Vypočtěte rozptyl náhodné veličiny X. 
+\end{itemize}
+
+}
+
+
+
+\frame {
+  \frametitle{Ukázka průběžné písemné zkoušky na denním studiu -- Příklad 1.}
+Jev $A$ spočívá v tom, že při hodu kostkou padne číslo větší než 2 a jev $B$ v tom, že padne sudé číslo. Určete, co uvedené jevy znamenají a vypište možné výsledky příznivé nastoupení uvedených jevů.\\[0.5cm]
+\begin{itemize}
+	\item[a)] $A\cap B$
+		\item[b)] $A \backslash B$
+			\item[c)] Rozhodněte, zda jsou jevy $A$ a $B$ stochasticky nezávislé. Zdůvodněte.
+\end{itemize}
+
+}
+
+\frame {
+  \frametitle{Ukázka průběžné písemné zkoušky na denním studiu -- Příklad 2.}
+Rozhodněte, zda je následující tvrzení pravdivá. Svou odpověď zdůvodněte. 
+\begin{itemize}
+	\item[a)] Pro libovolné neslučitelné jevy $A$ a $B$ platí
+	$$
+	P(A)\cup P(B)= P(A+B)
+	$$
+		\item[b)] Koeficient variace je podíl směrodatné odchylky a mediánu.
+			\end{itemize}
+}
+
+\frame {
+  \frametitle{Ukázka průběžné písemné zkoušky na denním studiu -- Příklad 3.}
+Vypočtěte $\iint\limits_N \frac{1}{3}dydx$, kde množina $N$ je tvořena trojúhelníkem s~vrcholy v bodech $[0,0]$; $[1,1]$ a $[0,1]$.
+
+}
+
+
+\frame {
+  \frametitle{Ukázka průběžné písemné zkoušky na denním studiu -- Příklad 4.}
+Tři výrobci dodávají žárovky do obchodu. První dodává 45 \%, druhý 40 \% a třetí 15 \% celkového množství. První dodavatel má 70 \% standardních žárovek, druhý 80 \% a třetí 81 \%. Určete pravděpodobnost, že si zákazník koupí standardní žárovku. 
+}
+
+\end{document}

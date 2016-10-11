@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.10)  26 SEP 2016 05:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.10)  11 OCT 2016 08:16
 entering extended mode
 **./01.tex
 (01.tex
@@ -1267,18 +1267,23 @@ File: obr2-5new.pdf Graphic file (type pdf)
  <use obr2-5new.pdf>
 Package pdftex.def Info: obr2-5new.pdf used on input line 274.
 (pdftex.def)             Requested size: 145.10922pt x 121.48041pt.
-File: obr2-5new.pdf Graphic file (type pdf)
 
-<use obr2-5new.pdf>
-Package pdftex.def Info: obr2-5new.pdf used on input line 274.
-(pdftex.def)             Requested size: 145.10922pt x 121.48041pt.
- <b4.jpg, id=343, 506.89375pt x 201.75375pt>
+
+pdfTeX warning: pdflatex.exe (file ./obr2-6new.pdf): PDF inclusion: found PDF v
+ersion <1.6>, but at most version <1.5> allowed
+<obr2-6new.pdf, id=343, 188.46912pt x 159.13754pt>
+File: obr2-6new.pdf Graphic file (type pdf)
+ <use obr2-6new.pdf>
+Package pdftex.def Info: obr2-6new.pdf used on input line 274.
+(pdftex.def)             Requested size: 145.10922pt x 122.53384pt.
+
+<b4.jpg, id=344, 506.89375pt x 201.75375pt>
 File: b4.jpg Graphic file (type jpg)
  <use b4.jpg>
 Package pdftex.def Info: b4.jpg used on input line 274.
 (pdftex.def)             Requested size: 506.89252pt x 201.75325pt.
 
-<b5.jpg, id=344, 266.9975pt x 260.975pt>
+<b5.jpg, id=345, 266.9975pt x 260.975pt>
 File: b5.jpg Graphic file (type jpg)
  <use b5.jpg>
 Package pdftex.def Info: b5.jpg used on input line 274.
@@ -1299,10 +1304,10 @@ File: obr2-5new.pdf Graphic file (type pdf)
  <use obr2-5new.pdf>
 Package pdftex.def Info: obr2-5new.pdf used on input line 274.
 (pdftex.def)             Requested size: 145.10922pt x 121.48041pt.
-File: obr2-5new.pdf Graphic file (type pdf)
- <use obr2-5new.pdf>
-Package pdftex.def Info: obr2-5new.pdf used on input line 274.
-(pdftex.def)             Requested size: 145.10922pt x 121.48041pt.
+File: obr2-6new.pdf Graphic file (type pdf)
+ <use obr2-6new.pdf>
+Package pdftex.def Info: obr2-6new.pdf used on input line 274.
+(pdftex.def)             Requested size: 145.10922pt x 122.53384pt.
 File: b4.jpg Graphic file (type jpg)
  <use b4.jpg>
 Package pdftex.def Info: b4.jpg used on input line 274.
@@ -1327,11 +1332,11 @@ File: obr2-5new.pdf Graphic file (type pdf)
  <use obr2-5new.pdf>
 Package pdftex.def Info: obr2-5new.pdf used on input line 274.
 (pdftex.def)             Requested size: 145.10922pt x 121.48041pt.
-File: obr2-5new.pdf Graphic file (type pdf)
+File: obr2-6new.pdf Graphic file (type pdf)
 
-<use obr2-5new.pdf>
-Package pdftex.def Info: obr2-5new.pdf used on input line 274.
-(pdftex.def)             Requested size: 145.10922pt x 121.48041pt.
+<use obr2-6new.pdf>
+Package pdftex.def Info: obr2-6new.pdf used on input line 274.
+(pdftex.def)             Requested size: 145.10922pt x 122.53384pt.
 File: b4.jpg Graphic file (type jpg)
  <use b4.jpg>
 Package pdftex.def Info: b4.jpg used on input line 274.
@@ -1342,10 +1347,9 @@ Package pdftex.def Info: b5.jpg used on input line 274.
 (pdftex.def)             Requested size: 266.99683pt x 260.97437pt.
  [15
 
- <./obr2-5new.pdf>]
+ <./obr2-5new.pdf> <./obr2-6new.pdf>]
 File: b1.jpg Graphic file (type jpg)
-
-<use b1.jpg>
+ <use b1.jpg>
 Package pdftex.def Info: b1.jpg used on input line 274.
 (pdftex.def)             Requested size: 547.0424pt x 179.67079pt.
 File: b2.jpg Graphic file (type jpg)
@@ -1356,17 +1360,17 @@ File: obr2-5new.pdf Graphic file (type pdf)
  <use obr2-5new.pdf>
 Package pdftex.def Info: obr2-5new.pdf used on input line 274.
 (pdftex.def)             Requested size: 145.10922pt x 121.48041pt.
-File: obr2-5new.pdf Graphic file (type pdf)
- <use obr2-5new.pdf>
-Package pdftex.def Info: obr2-5new.pdf used on input line 274.
-(pdftex.def)             Requested size: 145.10922pt x 121.48041pt.
+File: obr2-6new.pdf Graphic file (type pdf)
+ <use obr2-6new.pdf>
+Package pdftex.def Info: obr2-6new.pdf used on input line 274.
+(pdftex.def)             Requested size: 145.10922pt x 122.53384pt.
 File: b4.jpg Graphic file (type jpg)
- <use b4.jpg>
+
+<use b4.jpg>
 Package pdftex.def Info: b4.jpg used on input line 274.
 (pdftex.def)             Requested size: 506.89252pt x 201.75325pt.
 File: b5.jpg Graphic file (type jpg)
-
-<use b5.jpg>
+ <use b5.jpg>
 Package pdftex.def Info: b5.jpg used on input line 274.
 (pdftex.def)             Requested size: 266.99683pt x 260.97437pt.
  [16
@@ -1381,14 +1385,14 @@ File: b2.jpg Graphic file (type jpg)
 Package pdftex.def Info: b2.jpg used on input line 274.
 (pdftex.def)             Requested size: 610.2785pt x 244.91438pt.
 File: obr2-5new.pdf Graphic file (type pdf)
- <use obr2-5new.pdf>
-Package pdftex.def Info: obr2-5new.pdf used on input line 274.
-(pdftex.def)             Requested size: 145.10922pt x 121.48041pt.
-File: obr2-5new.pdf Graphic file (type pdf)
 
 <use obr2-5new.pdf>
 Package pdftex.def Info: obr2-5new.pdf used on input line 274.
 (pdftex.def)             Requested size: 145.10922pt x 121.48041pt.
+File: obr2-6new.pdf Graphic file (type pdf)
+ <use obr2-6new.pdf>
+Package pdftex.def Info: obr2-6new.pdf used on input line 274.
+(pdftex.def)             Requested size: 145.10922pt x 122.53384pt.
 File: b4.jpg Graphic file (type jpg)
  <use b4.jpg>
 Package pdftex.def Info: b4.jpg used on input line 274.
@@ -1403,16 +1407,16 @@ Package pdftex.def Info: b5.jpg used on input line 274.
 
 ] [19
 
-]
-[20
+] [20
 
 ] [21
 
 ] [22
 
-] <b7.jpg, id=613, 280.04625pt x 474.77374pt>
+] <b7.jpg, id=619, 280.04625pt x 474.77374pt>
 File: b7.jpg Graphic file (type jpg)
- <use b7.jpg>
+
+<use b7.jpg>
 Package pdftex.def Info: b7.jpg used on input line 401.
 (pdftex.def)             Requested size: 280.04555pt x 474.77258pt.
 
@@ -1460,7 +1464,7 @@ Overfull \hbox (25.15294pt too wide) detected at line 540
 
 ] [32
 
-] <b11.jpg, id=884, 475.7775pt x 342.27875pt>
+] <b11.jpg, id=890, 475.7775pt x 342.27875pt>
 File: b11.jpg Graphic file (type jpg)
  <use b11.jpg>
 Package pdftex.def Info: b11.jpg used on input line 734.
@@ -1567,7 +1571,7 @@ Overfull \hbox (20.28331pt too wide) in paragraph at lines 771--771
 
 ] [42
 
-] <graf.pdf, id=1146, 597.50786pt x 845.04686pt>
+] <graf.pdf, id=1152, 597.50786pt x 845.04686pt>
 File: graf.pdf Graphic file (type pdf)
  <use graf.pdf>
 Package pdftex.def Info: graf.pdf used on input line 814.
@@ -1592,7 +1596,7 @@ Package pdftex.def Info: graf.pdf used on input line 814.
 ] [51
 
 ]
-<hist.png, id=1392, 583.17876pt x 527.9725pt>
+<hist.png, id=1398, 583.17876pt x 527.9725pt>
 File: hist.png Graphic file (type png)
  <use hist.png>
 Package pdftex.def Info: hist.png used on input line 950.
@@ -1648,13 +1652,13 @@ Overfull \hbox (3.55202pt too wide) detected at line 1199
 
 [61
 
-] <i5.jpg, id=1655, 449.68pt x 256.96pt>
+] <i5.jpg, id=1661, 449.68pt x 256.96pt>
 File: i5.jpg Graphic file (type jpg)
  <use i5.jpg>
 Package pdftex.def Info: i5.jpg used on input line 1231.
 (pdftex.def)             Requested size: 449.6789pt x 256.95937pt.
 
-<i6.jpg, id=1656, 455.7025pt x 251.94125pt>
+<i6.jpg, id=1662, 455.7025pt x 251.94125pt>
 File: i6.jpg Graphic file (type jpg)
  <use i6.jpg>
 Package pdftex.def Info: i6.jpg used on input line 1231.
@@ -1685,13 +1689,13 @@ Package pdftex.def Info: i6.jpg used on input line 1231.
  [64
 
  <./i6.jpg>]
-<i7.jpg, id=1735, 534.99875pt x 356.33125pt>
+<i7.jpg, id=1741, 534.99875pt x 356.33125pt>
 File: i7.jpg Graphic file (type jpg)
  <use i7.jpg>
 Package pdftex.def Info: i7.jpg used on input line 1242.
 (pdftex.def)             Requested size: 534.99744pt x 356.33037pt.
 
-<i8.jpg, id=1736, 408.52625pt x 283.0575pt>
+<i8.jpg, id=1742, 408.52625pt x 283.0575pt>
 File: i8.jpg Graphic file (type jpg)
  <use i8.jpg>
 Package pdftex.def Info: i8.jpg used on input line 1242.
@@ -1784,7 +1788,7 @@ Overfull \vbox (35.51848pt too high) detected at line 1486
 ] [85
 
 ]
-<korelace_new.pdf, id=2289, 464.61102pt x 262.40692pt>
+<korelace_new.pdf, id=2295, 464.61102pt x 262.40692pt>
 File: korelace_new.pdf Graphic file (type pdf)
  <use korelace_new.pdf>
 Package pdftex.def Info: korelace_new.pdf used on input line 1553.
@@ -1813,7 +1817,7 @@ Package pdftex.def Info: korelace_new.pdf used on input line 1553.
 Package pdftex.def Warning: Option `bb' does not make sense,
 (pdftex.def)                using `viewport' instead on input line 1670.
 
-<reg1.pdf, id=2541, 597.23125pt x 845.1575pt>
+<reg1.pdf, id=2547, 597.23125pt x 845.1575pt>
 File: reg1.pdf Graphic file (type pdf)
  <use reg1.pdf>
 Package pdftex.def Info: reg1.pdf used on input line 1670.
@@ -1829,7 +1833,7 @@ Overfull \vbox (150.94844pt too high) detected at line 1670
 Package pdftex.def Warning: Option `bb' does not make sense,
 (pdftex.def)                using `viewport' instead on input line 1674.
 
-<reg2.pdf, id=2571, 597.23125pt x 845.1575pt>
+<reg2.pdf, id=2577, 597.23125pt x 845.1575pt>
 File: reg2.pdf Graphic file (type pdf)
  <use reg2.pdf>
 Package pdftex.def Info: reg2.pdf used on input line 1674.
@@ -1845,7 +1849,7 @@ Overfull \vbox (150.94844pt too high) detected at line 1674
 Package pdftex.def Warning: Option `bb' does not make sense,
 (pdftex.def)                using `viewport' instead on input line 1678.
 
-<reg3.pdf, id=2601, 597.23125pt x 845.1575pt>
+<reg3.pdf, id=2607, 597.23125pt x 845.1575pt>
 File: reg3.pdf Graphic file (type pdf)
  <use reg3.pdf>
 Package pdftex.def Info: reg3.pdf used on input line 1678.
@@ -1884,10 +1888,10 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1688.
  ) 
 Here is how much of TeX's memory you used:
- 19110 strings out of 493634
- 354424 string characters out of 3143744
- 480407 words of memory out of 3000000
- 21804 multiletter control sequences out of 15000+200000
+ 19115 strings out of 493634
+ 354508 string characters out of 3143744
+ 480464 words of memory out of 3000000
+ 21808 multiletter control sequences out of 15000+200000
  18179 words of font info for 65 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  48i,18n,51p,909b,572s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1911,9 +1915,9 @@ b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><
 C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam7.pfb><C:/P
 rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/public/yhmath/yhcmex.pfb>
-Output written on 01.pdf (98 pages, 1116452 bytes).
+Output written on 01.pdf (98 pages, 1119603 bytes).
 PDF statistics:
- 2768 PDF objects out of 2984 (max. 8388607)
+ 2774 PDF objects out of 2984 (max. 8388607)
  197 named destinations out of 1000 (max. 500000)
- 128 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 133 words of extra memory for PDF output out of 10000 (max. 10000000)
 
